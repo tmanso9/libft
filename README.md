@@ -1,0 +1,3 @@
+- **Description**: A library of functions designed to be reused in future projects.
+- **Language**: C
+- **How to run**: run make to compile as libft.a
